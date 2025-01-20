@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common error in Ruby involving getter methods and the modification of instance variables.  The example showcases how directly assigning a value to the result of a getter method does not update the internal instance variable. The solution file provides the correct approach.
